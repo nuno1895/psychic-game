@@ -31,7 +31,7 @@ h2 {
 	max-width: 960px;
 	text-align: center;
 	margin: 0 auto;
-	clear:both;
+	clear:both;	
 }
 
 #header {
@@ -44,4 +44,5 @@ h2 {
 
 #results {
 	margin-top: 30px;
+	background-color: darkgrey;
 }
